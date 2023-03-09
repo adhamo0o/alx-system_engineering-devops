@@ -1,2 +1,2 @@
-#!/لاbin/bash
+#!/bin/bash
 ls -m --file-type
