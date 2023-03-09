@@ -1,0 +1,5 @@
+#!/bin/bash
+cp --update *.html ..
+select  in ; do
+    $
+done
